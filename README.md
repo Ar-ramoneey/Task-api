@@ -93,18 +93,18 @@ Response Example:
 Below are screenshots demonstrating successful API requests using Postman.
 
 ### Create Task (POST /api/tasks)
-![Create Task](screenshots/postman-create-task.png)
+![Create Task](./src/screenshots/postman-create-task.png)
 
 ### Get All Tasks (GET /api/tasks)
-![Get All Tasks](screenshots/postman-get-tasks.png)
-
+![Get All Tasks](./src/screenshots/postman-get-tasks.png)
+    
 ### Get All Tasks (GET /api/tasks/:id)
-![Get All Tasks](screenshots/postman-get-tasks-by-id.png)
+![Get All Tasks](./src/screenshots/postman-get-task-byid.png)
 
 ### Update Task (PUT /api/tasks/:id)
-![Update Task](screenshots/postman-update-task.png)
+![Update Task](./src/screenshots/postman-update-task.png)
 
 ### Delete Task (DELETE /api/tasks/:id)
-![Delete Task](screenshots/postman-delete-task.png)
+![Delete Task](./src/screenshots/postman-delete-task.png)
 
 Happy coding! 😊
